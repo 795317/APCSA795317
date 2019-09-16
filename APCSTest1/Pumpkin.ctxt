@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Pumpkin
+comment0.text=\r\n\ Class\ Pumpkin\ here.\r\n\r\n\ @author\ (Nikhitha)\r\n\ @version\ (915)\r\n
+comment1.params=n
+comment1.target=Pumpkin(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
