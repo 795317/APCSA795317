@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Numbers
+comment0.text=\r\n\ Class\ Numbers\ \r\n\r\n\ @author\ (Nikhitha)\r\n\ @version\ (915)\r\n
+comment1.params=n1\ n2
+comment1.target=Numbers(int,\ int)
+comment2.params=m1\ m2
+comment2.target=int\ multiply(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
