@@ -2,8 +2,8 @@
 /**
  * Write a description of class Person here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Nikhitha Nair)
+ * @version (924)
  */
 public class Person
 {
