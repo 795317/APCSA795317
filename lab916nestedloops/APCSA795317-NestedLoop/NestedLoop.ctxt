@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NestedLoop
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NestedLoop\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NestedLoop()
+comment2.params=
+comment2.target=void\ nestedLoop1()
+comment3.params=
+comment3.target=void\ nestedLoop2()
+comment4.params=n
+comment4.target=void\ nestedLoop3(int)
+comment5.params=n
+comment5.target=void\ print(int)
+comment6.params=n
+comment6.target=void\ nestedLoop4(int)
+numComments=7
