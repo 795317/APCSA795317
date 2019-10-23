@@ -8,15 +8,14 @@
 import java.util.ArrayList;
 public class MMM
 {
-    
+    private double mean;
+    private double median;
     /**
      * Constructor for objects of class MMM
      */
     public MMM()
     {
-      ArrayList<Integer>nums;
-      nums = new ArrayList<Integer>();
-      
+     
     }
     
     public void loadArraylist(){
