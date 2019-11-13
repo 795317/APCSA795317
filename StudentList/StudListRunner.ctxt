@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=StudListRunner
+comment1.params=
+comment1.target=StudListRunner()
+comment2.params=
+comment2.target=int\ getUserSelectionMenu()
+comment3.params=operation
+comment3.target=int\ getUserByNameOrNumber(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getStudentName()
+comment5.params=
+comment5.target=int\ getStudentNumber()
+comment6.params=studList
+comment6.target=void\ addStudent(StudList)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

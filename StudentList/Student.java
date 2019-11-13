@@ -1,3 +1,10 @@
+/**
+* Class Student
+*
+* @author (Nikhitha Nair)
+* @version (1113)
+*/
+
 public class Student {
     public Student() {
         super();
