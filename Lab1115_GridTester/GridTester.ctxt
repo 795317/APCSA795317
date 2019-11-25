@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GridTester
+comment1.params=
+comment1.target=int\ getRandomNumber()
+comment2.params=
+comment2.target=void\ loadArray()
+comment3.params=
+comment3.target=int\ sumAll()
+comment4.params=
+comment4.target=int\ findGreatest()
+comment5.params=
+comment5.target=void\ numberOfGreatest()
+comment6.params=
+comment6.target=void\ findAvg()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
